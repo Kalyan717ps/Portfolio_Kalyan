@@ -1,0 +1,233 @@
+1.Introduction
+----------------
+
+Name: P. Sudha Kalyan
+
+Title: Data Analyst
+
+Bio:
+💻 Turning Data Into Decisions | Building the Web of Tomorrow
+
+I'm a B.Tech CSE student at VIT-AP University, driven by a deep interest in Data Science, Analytics & Visualization, and Web Development.
+
+I love working at the intersection of logic and creativity — whether it's uncovering insights from complex datasets or designing clean, functional web experiences. With a passion for learning, a goal-oriented mindset, and a hardworking attitude, I'm constantly exploring new technologies to build meaningful, real-world solutions.
+
+Let’s connect and create something impactful.
+
+Professional Pic:
+
+Resume:
+
+Contact Info:
+	mobile no    : +91 7674873739
+	e-mail id    : punnasudhakalyan717@gmail.com
+__________________________________________________________________________________________________________________________________________
+
+
+2.About Me:
+------------
+
+Educational Background:
+
+VELLORE INSTITUTE OF TECHNOLOGY
+Nandyal
+Computer Science Engineering
+CGPA : 8.4
+2022-2026
+
+NARAYANA JUNIOR COLLEGE
+Nandyal
+Intermediate : MPC
+2020-2022
+CGPA 9.35
+
+KESHAVA REDDY PUBLIC SCHOOL
+Nandyal
+S.C.C
+CCPA : 10.0
+2019-2020
+
+
+Journey and Passion:
+
+My journey into tech started out of pure curiosity, and over time, I found myself drawn to data analysis, data science, and web development. There's no specific reason—I just genuinely enjoy exploring these fields. As a B.Tech CSE student at VIT, I’m excited to keep growing, learning, and building impactful solutions.
+
+
+Soft Skills:
+
+ Good Communication Skills
+ Goal-Oriented Mindset
+ Efficient in Team Management
+ Leadership Skills
+ Problem Solving and Analytical Skills
+
+
+Certifications and Achievements:
+
+ Data Fundamentals : IBM SKILLS BUILD
+ Completed a virtual internship focused on core data analytics skills,
+ including data interpretation, visualization, and insights generation.
+ Gained hands-on experience through assignments and
+ masterclasses, demonstrating strong analytical thinking and self
+driven learning.
+
+
+Achievements:
+
+Secured Silver medal in Chess Under-17 Zonals
+Secured Bronze medal in Chess Under-17 Central Zonals
+__________________________________________________________________________________________________________________________________________
+
+
+3.Skills:
+----------
+
+Programming Languages:
+	Java
+	Python
+	SQL
+	
+Languages:
+ 	Telugu
+ 	Hindi
+ 	English
+ 	Basic German
+
+Tools:
+	Power BI
+	Excel
+	Word
+	Chat GPT
+
+Frameworks and Libraries:
+
+	For Web Development:
+	React.js – Frontend library for building user interfaces
+	Express.js – Web framework for Node.js
+
+	For Data Science & Analysis:
+	Pandas – Data manipulation and analysis
+	NumPy – Numerical computations
+	Matplotlib / Seaborn – Data visualization
+
+4.Projects:
+
+1. Smart Industrial Monitoring System
+🔹 Title:
+IoT-Based Industrial Safety Monitoring System Using Arduino UNO
+
+🔹 Brief Info (Real-time Solution):
+Designed a real-time industrial monitoring system to detect fire or gas leaks in factory environments. Upon detection, the system triggers an alert and activates water sprinklers to prevent accidents and minimize damage, ensuring worker and asset safety.
+
+🔹 Technologies Used:
+
+Arduino UNO
+
+Gas Sensor (MQ-2/MQ-5)
+
+Flame Sensor
+
+Buzzer & Water Sprinkler
+
+LCD Display
+
+GSM Module (for alerts)
+
+C/C++ (Arduino IDE)
+
+🔹 Challenges Faced:
+
+Calibrating gas and flame sensors for accurate real-time detection
+
+Ensuring timely communication between components
+
+Managing false positives due to environmental noise
+
+🔹 Learning Outcomes:
+
+Improved understanding of embedded systems and sensor integration
+
+Gained experience in real-time alert systems
+
+Learned how to optimize systems for safety-critical applications
+
+2. Automated Waste Segregation System
+🔹 Title:
+Smart Waste Segregation System Using Arduino UNO
+
+🔹 Brief Info (Real-time Solution):
+Created an automated solution for real-time segregation of wet and dry waste. The system uses sensors to detect the type of waste and directs it into the appropriate bin, promoting cleaner waste management practices and environmental sustainability.
+
+🔹 Technologies Used:
+
+Arduino UNO
+
+Moisture Sensor
+
+Servo Motor (for bin control)
+
+Ultrasonic Sensor (object detection)
+
+IR Sensor
+
+C/C++ (Arduino IDE)
+
+🔹 Challenges Faced:
+
+Differentiating waste types accurately with minimal hardware
+
+Mechanical alignment of servo motors for precise bin movement
+
+Ensuring smooth and fast detection without delays
+
+🔹 Learning Outcomes:
+
+Gained practical experience in automation and environmental tech
+
+Learned to optimize sensor-based logic for real-time applications
+
+Developed skills in integrating electronics with mechanical systems
+
+
+3. IPL Match Outcome Prediction Using Machine Learning
+
+Brief Info (Real-Time Solution):
+Developed a machine learning-based system to predict the outcomes of Indian Premier League (IPL) matches using historical data from 2008 to 2023. The solution helps teams enhance strategies, boosts fan engagement, and supports data-driven decisions in sports broadcasting and sponsorships.
+
+Technologies Used:
+Languages & Tools: Python, Jupyter Notebooks
+
+Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow/Keras
+
+Visualization: Tableau
+
+Models Used: Logistic Regression, Decision Trees, Random Forests, Deep Learning (LSTM/RNN)
+
+Challenges Faced:
+Handling large, diverse, and incomplete datasets
+
+Identifying and engineering relevant features from complex sports data
+
+Balancing model accuracy with interpretability
+
+Integrating predictive insights into a visual dashboard effectively
+
+Learning Outcomes:
+Strengthened understanding of end-to-end data science workflows
+
+Gained hands-on experience with machine learning and deep learning models
+
+Learned to derive actionable insights from sports analytics
+
+Improved skills in data visualization and communicating results using Tableau
+__________________________________________________________________________________________________________________________________________
+
+5. Resume:
+__________________________________________________________________________________________________________________________________________
+
+6. Contact:
+	email-id: punnasudhakaylan717@gmail.com
+	LinkedIn: https://www.linkedin.com/in/sudhakalyanpunna/
+	GitHub  : https://github.com/Kalyan717ps
+	LeetCode: https://leetcode.com/u/kalyan717ps/
+__________________________________________________________________________________________________________________________________________
